@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowzaSample.iOS", "iOS\WowzaSample.iOS.csproj", "{6D48A0BD-622B-48DD-BD1C-C76FAF3ECF87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowzaSample.iOS", "WowzaSample.iOS\WowzaSample.iOS.csproj", "{6D48A0BD-622B-48DD-BD1C-C76FAF3ECF87}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowzaIOSSDK", "WowzaIOSSDK\WowzaIOSSDK.csproj", "{A395303F-DA99-4A31-A163-F371079DBCD9}"
 EndProject
