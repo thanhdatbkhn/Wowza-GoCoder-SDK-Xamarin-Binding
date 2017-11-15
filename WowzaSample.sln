@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowzaDroidSDK", "WowzaDroid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowzaSample.droid", "WowzaSample.droid\WowzaSample.droid.csproj", "{B7F2A8B3-3BB5-432D-9DDC-A408E6D28298}"
 EndProject
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "WowzaSample.Droid", "Droid\WowzaSample.Droid.csproj", "{48FC410D-F420-484B-9FB3-FD4A3E5EED71}"
-EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{F18EDE0F-4734-4935-B3F8-8739D3ECA9ED}"
 EndProject
 Global
@@ -71,17 +69,5 @@ Global
 		{B7F2A8B3-3BB5-432D-9DDC-A408E6D28298}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{B7F2A8B3-3BB5-432D-9DDC-A408E6D28298}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{B7F2A8B3-3BB5-432D-9DDC-A408E6D28298}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|iPhone.Build.0 = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{48FC410D-F420-484B-9FB3-FD4A3E5EED71}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

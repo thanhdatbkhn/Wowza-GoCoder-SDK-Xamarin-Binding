@@ -15,7 +15,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Configs\">
-      <DependentUpon>Configs</DependentUpon>
     </Folder>
   </ItemGroup>
 </Project>
