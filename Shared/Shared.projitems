@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{F18EDE0F-4734-4935-B3F8-8739D3ECA9ED}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Configs\IWowzaConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Configs\WowzaCloudConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Configs\WowzaVTCConfig.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Configs\">
+      <DependentUpon>Configs</DependentUpon>
+    </Folder>
+  </ItemGroup>
+</Project>
